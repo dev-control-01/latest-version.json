@@ -1,8 +1,8 @@
 {
-  "version": "5.1.6",
-  "notes": "## Meeting Manager v5.1.6\n\nInstaller per macOS e Windows.\n\n| Piattaforma | File |\n|---|---|\n| **macOS** (Apple Silicon) | `Meeting Manager-*-arm64.dmg` |\n| **macOS** (Intel) | `Meeting Manager-*.dmg` |\n| **Windows** | `Meeting Manager Setup *.exe` |\n\n> **macOS**: dopo l'installazione eseguire una volta:\n> ```\n> xattr -cr /Applications/Meeting\\ Manager.app\n> ```\n",
-  "mac": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.1.6/Meeting.Manager-5.1.6-arm64.dmg",
-  "mac_arm64": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.1.6/Meeting.Manager-5.1.6-arm64.dmg",
-  "mac_x64": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.1.6/Meeting.Manager-5.1.6.dmg",
-  "win": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.1.6/Meeting.Manager.Setup.5.1.6.exe"
+  "version": "5.1.5",
+  "notes": "## Meeting Manager v5.1.5\n\nInstaller per macOS e Windows.\n\n| Piattaforma | File |\n|---|---|\n| **macOS** (Apple Silicon) | `Meeting Manager-*-arm64.dmg` |\n| **macOS** (Intel) | `Meeting Manager-*.dmg` |\n| **Windows** | `Meeting Manager Setup *.exe` |\n\n> **macOS**: dopo l'installazione eseguire una volta:\n> ```\n> xattr -cr /Applications/Meeting\\ Manager.app\n> ```\n",
+  "mac": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.1.5/Meeting.Manager-5.1.5-arm64.dmg",
+  "mac_arm64": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.1.5/Meeting.Manager-5.1.5-arm64.dmg",
+  "mac_x64": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.1.5/Meeting.Manager-5.1.5.dmg",
+  "win": "https://github.com/dev-control-01/meeting-manager-releases/releases/download/v5.1.5/Meeting.Manager.Setup.5.1.5.exe"
 }
