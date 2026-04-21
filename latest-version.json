@@ -1,6 +1,6 @@
 {
-  "version": "5.1.1",
-  "notes": "**Full Changelog**: https://github.com/dev-control-01/meeting-manager-v5/compare/v5.1.0...v5.1.1",
-  "mac": "https://github.com/dev-control-01/meeting-manager-v5/releases/download/v5.1.1/Meeting.Manager-5.1.1-arm64.dmg",
-  "win": "https://github.com/dev-control-01/meeting-manager-v5/releases/download/v5.1.1/Meeting.Manager.Setup.5.1.1.exe"
+  "version": "5.1.2",
+  "notes": "**Full Changelog**: https://github.com/dev-control-01/meeting-manager-v5/compare/v5.1.1...v5.1.2",
+  "mac": "https://github.com/dev-control-01/meeting-manager-v5/releases/download/v5.1.2/Meeting.Manager-5.1.2-arm64.dmg",
+  "win": "https://github.com/dev-control-01/meeting-manager-v5/releases/download/v5.1.2/Meeting.Manager.Setup.5.1.2.exe"
 }
